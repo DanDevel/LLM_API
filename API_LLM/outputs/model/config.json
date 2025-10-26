@@ -1,0 +1,1 @@
+{"lookback": 48, "horizon": 1, "input_feature": "close", "hidden": 320, "layers": 1, "dropout": 0.39433055935928685, "bidir": false, "lr": 0.002440360274842001, "batch": 64, "epochs": 41}
